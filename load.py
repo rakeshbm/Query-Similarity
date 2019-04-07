@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  5 15:16:53 2019
-
-@author: 12135
-"""
 
 import os
 import nltk
